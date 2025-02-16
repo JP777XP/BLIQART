@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+layout: Home
+title: "WELCOME TO BLIQ ART"
 ---
+## About
+NY ARTISTRY TRANSCENDING REALITY by MELDING POLY-CULTURAL CONCEPTS INTO ETERNAL DIGITAL ASSETS
+
 
